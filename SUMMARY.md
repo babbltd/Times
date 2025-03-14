@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Times, a protocol.](README.md)
-* [History of Business Records](history-of-business-records.md)
-* [Unifying Framework](unifying-framework.md)
+* [Record Creation & Storage](record-creation-and-storage.md)
+* [New Unifying Framework](new-unifying-framework.md)
 
 ## TAOO
 
