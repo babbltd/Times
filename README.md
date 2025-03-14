@@ -1,2 +1,2 @@
 # Times
-A Set of Protocols for Buiness Records
+A Set of Protocols for Business Records
