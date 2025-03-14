@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Times](README.md)
+* [Times, a protocol.](README.md)
 * [TAOO Method](taoo-method/README.md)
   * [Time](taoo-method/time.md)
   * [Action](taoo-method/action.md)
